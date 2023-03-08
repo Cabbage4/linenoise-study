@@ -1,1 +1,1 @@
-g++ -std=c++11 main.cpp -o main
+gcc main.c ./linenoise/linenoise.c -o main
